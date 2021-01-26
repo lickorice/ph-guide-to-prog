@@ -10,4 +10,7 @@
 Yup. No worries on using it anywhere, even commercially. No need to credit me.
 
 ### © 2021 Carlos Panganiban.
-[carlospanganiban.com](https://carlospanganiban.com/)
+[carlospanganiban.com](https://carlospanganiban.com/) 
+
+### Join our community!
+[Discord](https://discord.gg/3YD7ewjzf4)
