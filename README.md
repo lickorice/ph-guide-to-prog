@@ -1,4 +1,4 @@
-# [A Filipino's Guide to Programming](https://youtu.be/-gCizBiadyc)
+# [A Filipino's Guide to Programming](https://youtube.com/playlist?list=PLRBUyvh6wWhEKZ4I9VH8mQz3YB8lRprAS)
 ## Current contents
  - `recursion_basics` - [Recursion Basics | A Filipino's Guide to Programming](https://youtu.be/-gCizBiadyc)
 ## Can I use this?
